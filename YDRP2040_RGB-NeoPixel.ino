@@ -1,5 +1,4 @@
 #include <Adafruit_NeoPixel.h>
-#define PIN 23
 #define FADE_MS 25
 
 Adafruit_NeoPixel LED(1, PIN_NEOPIXEL, NEO_GRB + NEO_KHZ800);
